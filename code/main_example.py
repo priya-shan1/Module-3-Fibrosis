@@ -6,7 +6,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.interpolate import interp1d
 import pandas as pd
-
+import time
+start_time = time.perf_counter()
 # Load the images you want to analyze
 filenames = [
     r"/Users/priya/Documents/Comp_Bio/GitHub/Module-3-Fibrosis/images/MASK_SK658 Llobe ch010039.jpg",
@@ -70,7 +71,10 @@ print(colored("Success: 'Percent_White_Pixels.csv' created.", "green"))
 print("The .csv file 'Percent_White_Pixels.csv' has been created.")
 
 '''the .csv writing subroutine ends here'''
+end_time = time.perf_counter()
 
+execution_time = end_time - start_time
+print(f"Execution time: {execution_time} seconds")
 
 ##############
 # LECTURE 2: UNCOMMENT BELOW
