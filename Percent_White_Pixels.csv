@@ -1,7 +1,7 @@
-Filenames,Depths,White percents
-/Users/priya/Documents/Comp_Bio/GitHub/Module-3-Fibrosis/images/MASK_SK658 Llobe ch010039.jpg,15,0.5161285400390625
-/Users/priya/Documents/Comp_Bio/GitHub/Module-3-Fibrosis/images/MASK_SK658 Slobe ch010066.jpg,1000,1.4475584030151367
-/Users/priya/Documents/Comp_Bio/GitHub/Module-3-Fibrosis/images/MASK_SK658 Slobe ch010147.jpg,3000,1.9200801849365234
-/Users/priya/Documents/Comp_Bio/GitHub/Module-3-Fibrosis/images/MASK_SK658 Slobe ch010110.jpg,5300,2.289104461669922
-/Users/priya/Documents/Comp_Bio/GitHub/Module-3-Fibrosis/images/MASK_SK658 Slobe ch010130.jpg,7000,2.684903144836426
-/Users/priya/Documents/Comp_Bio/GitHub/Module-3-Fibrosis/images/MASK_SK658 Slobe ch010114.jpg,9900,5.777835845947266
+Filenames,Depths,White Counts,White percents
+/Users/priya/Documents/Comp_Bio/GitHub/Module-3-Fibrosis/images/MASK_SK658 Llobe ch010039.jpg,15,21648,0.5161285400390625
+/Users/priya/Documents/Comp_Bio/GitHub/Module-3-Fibrosis/images/MASK_SK658 Slobe ch010066.jpg,1000,60715,1.4475584030151367
+/Users/priya/Documents/Comp_Bio/GitHub/Module-3-Fibrosis/images/MASK_SK658 Slobe ch010147.jpg,3000,80534,1.9200801849365234
+/Users/priya/Documents/Comp_Bio/GitHub/Module-3-Fibrosis/images/MASK_SK658 Slobe ch010110.jpg,5300,96012,2.289104461669922
+/Users/priya/Documents/Comp_Bio/GitHub/Module-3-Fibrosis/images/MASK_SK658 Slobe ch010130.jpg,7000,112613,2.684903144836426
+/Users/priya/Documents/Comp_Bio/GitHub/Module-3-Fibrosis/images/MASK_SK658 Slobe ch010114.jpg,9900,242340,5.777835845947266
