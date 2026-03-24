@@ -18,6 +18,7 @@ filenames = [
     r"/Users/priya/Documents/Comp_Bio/GitHub/Module-3-Fibrosis/images/MASK_SK658 Slobe ch010114.jpg",
 ]
 
+#filenames = [r"C:\Users\dance\OneDrive - University of Virginia\Computational BME\Module-3-Fibrosis\images\MASK_Sk658 Llobe ch010039.jpg", r"C:\Users\dance\OneDrive - University of Virginia\Computational BME\Module-3-Fibrosis\images\MASK_Sk658 Llobe ch010067.jpg", r"C:\Users\dance\OneDrive - University of Virginia\Computational BME\Module-3-Fibrosis\images\MASK_SK658 Slobe ch010147.jpg", r"C:\Users\dance\OneDrive - University of Virginia\Computational BME\Module-3-Fibrosis\images\MASK_SK658 Slobe ch010110.jpg", r"C:\Users\dance\OneDrive - University of Virginia\Computational BME\Module-3-Fibrosis\images\MASK_SK658 Slobe ch010130.jpg", r"C:\Users\dance\OneDrive - University of Virginia\Computational BME\Module-3-Fibrosis\images\MASK_SK658 Slobe ch010114.jpg"]
 # Enter the depth of each image (in the same order that the images are listed above; you can find these in the .csv file provided to you which is tilted: "Filenames and Depths for Students")
 
 depths = [
