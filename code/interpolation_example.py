@@ -7,8 +7,8 @@ import matplotlib.pyplot as plt
 x_points = [1, 3]
 y_points = [1, 3]
 
-x1, x2 = 1, 3
-y1, y2 = 1, 3
+x1, x2 = x_points[0], x_points[1]
+y1, y2 = y_points[0], y_points[1]
 
 # Make the Z and Y matrices
 Z = np.array([[1, x1], [1, x2]])
@@ -51,15 +51,14 @@ plt.show()
 x_points = [1, 3, 5]
 y_points = [1, 3, 2]
 
-x1, x2, x3 = 1, 3, 5
-y1, y2, y3 = 1, 3, 2
+x1, x2, x3 = x_points[0], x_points[1], x_points[2]
+y1, y2, y3 = y_points[0], y_points[1], y_points[2]
 
 Z = np.array([[1, x1, x1 ** 2], 
               [1, x2, x2 ** 2], 
               [1, x3, x3 ** 2]])
 
 Y = np.array([y1, y2, y3])
-
 A = np.linalg.solve(Z, Y)
 
 print("A = ", A)
